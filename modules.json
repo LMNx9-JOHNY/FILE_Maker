@@ -1,0 +1,11 @@
+{
+    "c-log": 356,
+    "c-hex": 29,
+    "c-section": "bash",
+    "c-extension": ".sh",
+    "logging": true,
+    "bashinfo": {
+        "login": "FILE_v5.sh",
+        "return": false
+        }
+}
