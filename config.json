@@ -1,0 +1,13 @@
+{
+    "interval": 1,
+    "login": "FILE_v5.sh"
+    "v5": true,
+    "Script": {
+        "low": 500,
+        "high": 600
+    },
+    "additional_time": {
+        "min": 60,
+        "max": 120
+    }
+}
