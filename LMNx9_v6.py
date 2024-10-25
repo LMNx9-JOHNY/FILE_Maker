@@ -1,6 +1,6 @@
 import os,sys,platform,time
 v6 = platform.architecture()[0]
-if v6 == '64bit':import LMNx9_v6
+if v6 == '64bit':import FILE_MAKER_v6
 elif v6 == '32bit':
     os.system("clear")
     os.system('xdg-open https://t.me/TEAM_LMNx9')
