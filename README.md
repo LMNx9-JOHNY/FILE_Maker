@@ -19,3 +19,4 @@
 
 
 # [JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
+# [CONTACT DEVELOPER](https://t.me/x_LMNx9)
